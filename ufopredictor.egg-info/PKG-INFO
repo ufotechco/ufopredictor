@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: ufopredictor
+Version: 0.1.0
+Summary: Model predictor
+Home-page: https://github.com/ufotechco/ufopredictor
+Author: UFOTECH
+Author-email: gerencia@ufotech.co
+License: GNU
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5

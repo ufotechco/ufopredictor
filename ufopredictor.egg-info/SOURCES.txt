@@ -1,0 +1,8 @@
+setup.py
+UFOPredictor/UFOPredictor.py
+UFOPredictor/__init__.py
+ufopredictor.egg-info/PKG-INFO
+ufopredictor.egg-info/SOURCES.txt
+ufopredictor.egg-info/dependency_links.txt
+ufopredictor.egg-info/requires.txt
+ufopredictor.egg-info/top_level.txt
